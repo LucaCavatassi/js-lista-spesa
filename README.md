@@ -3,3 +3,4 @@
 - Creo la lista degli elementi che devo comprare 
 - Creo ciclo while che mi prende gli elementi da dentro la lista
 - Stampo gli elementi presi dentro il foglio
+
